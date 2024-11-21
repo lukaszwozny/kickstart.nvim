@@ -1,0 +1,6 @@
+return {
+  'tomtom/tcomment_vim',
+  config = function()
+    -- Optional: any configuration you want to add
+  end,
+}
